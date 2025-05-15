@@ -70,13 +70,4 @@ kubectl apply -f deployment.yaml
 ![architecture](images/architecture-diagram.png)
 
 ---
-
-## 📝 Notes
-
-- This is a simulated multi-cloud setup for portfolio and demonstration purposes.
-- Real-world scenarios would include federation, service mesh, monitoring, and more.
-- Make sure you configure credentials (`az login`, `gcloud auth login`) before applying.
-
----
-
 👤 **Author:** [Rukesh Dasari](https://github.com/rukesh24)
